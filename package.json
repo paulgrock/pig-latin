@@ -1,0 +1,19 @@
+{
+  "name": "pig-latin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.13.1",
+    "eslint-config-xo-space": "^0.15.0",
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha main.test.js",
+    "lint": "eslint *.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
